@@ -5,11 +5,16 @@ class Main {
   {
     Scanner scan = new Scanner(System.in);
     System.out.println("How old is your mom");
-    String name = scan.next();
+    int momAge = scan.nextInt();
     System.out.println("How old is your dad");
-    int currentTwo = scan.nextInt();
+    int dadAge = scan.nextInt();
     System.out.println("How old are you");
-    int currentThree = scan.nextInt();
+    int yourAge = scan.nextInt();
+
+
+
+
+    
 
 
 
