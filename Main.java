@@ -1,3 +1,5 @@
+ggt
+
 import java.util.Scanner;
 
 class Main {
